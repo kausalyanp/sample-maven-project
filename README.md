@@ -140,8 +140,9 @@ Scroll down to the Build section and click Add Build Step.
 Select Invoke Top-Level Maven Targets.
 For Goals, enter clean install (this will clean and compile your project).
 Specify the POM File:
-```
+
 Sample pom.xml file
+```
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
