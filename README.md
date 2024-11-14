@@ -211,4 +211,5 @@ Go to Build History on the left panel, select the build, and click Console Outpu
 
 Notes:
 1. Use Ubuntu server version Ubuntu Server 22.04 LTS (HVM),EBS General Purpose (SSD)
-2. Allow "All TCP" traffic in security group inbound rule.
+2. Storage is 20 GiB (minimum required)
+3. Allow "All TCP" traffic in security group inbound rule.
