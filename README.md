@@ -208,3 +208,7 @@ Run the Build:
 On the project page, click Build Now.
 View the Console Output:
 Go to Build History on the left panel, select the build, and click Console Output to view detailed logs of the build process.
+
+Notes:
+1. Use Ubuntu server version Ubuntu Server 22.04 LTS (HVM),EBS General Purpose (SSD)
+2. Allow "All TCP" traffic in security group inbound rule.
